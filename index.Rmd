@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
   fig.width=9, fig.height=3.5, fig.retina=3,
   out.width = "100%",
   cache = FALSE,
-  echo = TRUE,
+  echo = FALSE,
   message = FALSE, 
   warning = FALSE,
   fig.show = TRUE,
@@ -31,6 +31,8 @@ knitr::opts_chunk$set(
 ```
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
+# install.packages("showtext")
+library(xaringan)
 library(xaringanthemer)
 style_duo_accent(
   primary_color = "#1381B0",
@@ -39,20 +41,118 @@ style_duo_accent(
 )
 ```
 
----
-
 # Julie Intro - 4 min
 # The problem (slide)
 
+???
+
+Hi everyone! I'm Julie Lowndes, and I'm founder and co-director of Openscapes. 
+
+I'm excited to talk today about Open science as a movement and the art of Openscapes with my collaborator and friend Dr. Allison Horst!
+
+Open science is defined in many ways (Hampton) that are practical and product and process based. Data science as a key entryway to me participating and championing open science, so much so that it has become the basis of my career. 
+
+And building on that, we're excited on open science as something more people-forward: a movement that is inclusive, xyz.  
+
+I founded Openscapes based on my experience as a marine science researcher — 
+
+
+
 ---
 
-# Star Wars slides
+```{r luke}
+```
+class: center, middle
+background-image: url(img/horst-starwars-luke.png)
+background-size: contain
 
-## ROpenSci, RLadies, RStudio, Mozilla on the hands?
+.footnote[ TODO FIX
+art: [@allison_horst](https://twitter.com/allison_horst)
+]
+
+
+???
+(rapid walk-through)
+I was lonely and demoralized when it came to data analysis. I kept having situations where I couldn't solve the problem in front of me with the skillsets I had, whether this was learning to code in a total panic by myself or collaborating with others through forwarded emails with attachments like data_analys_final_final_final.xls
+
+---
+```{r yoda}
+```
+
+class: center, middle
+background-image: url(img/horst-starwars-yoda.png)
+background-size: contain
+
+.footnote[
+art: [@allison_horst](https://twitter.com/allison_horst)
+]
+
+
+???
+
+But open data science changed all that for me: it was more powerful than I ever imagined, and has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science through communication and publishing on the open web. 
+
+---
+```{r hands} 
+```
+class: center, middle
+background-image: url(img/horst-starwars-hands.png)  
+background-size: contain
+
+
+.footnote[
+art: [@allison_horst](https://twitter.com/allison_horst)
+]
+
+
+???
+
+And really that is because of the open data science community. The idea that we are motivated by the same vision of inclusion and reproducibility and transparency and efficiency, and we all come at it with different motivations and experiences and bring different expertise and ideas so that together we can learn more and do more and be better. 
+
+---
+exclude: TRUE
+```{r rey-toc-full}
+```
+class: title-slide, right, bottom
+background-image: url(img/horst-starwars-rey.png)
+background-size: contain
+background-position: bottom left   
+
+
+What this all means is that I am gained confidence and leadership ...
+
+---
+# ROpenSci, RLadies, RStudio, Carpentries, Mozilla logos / pics of unconfs
+
+???
+For me, the R community was this entryway to the open movement. 
+
+rOpenSci welcomed me to this community as a quite timid new coder and introduced me to seasoned developers who valued my questions and contributions. RStudio leadership has been a huge part of my path as well....
+
+Through the Carpentries I learned how to teach with empathy for my learners, and we started a Mozilla study group called Eco-Data-Science in 2016 and and RLadies chapter in 2018. RLadies has been so transformational in my life and has helped me become the feminist I want to be: which is about supporting women and gender minorities, and thinking about data feminism as a way to examine and challenge power (cite)
 
 ---
 
-# Open science as a movement
+# Open science as a movement: 
+
+## Kinder, inclusive, collaborative science
+
+???
+
+All of this together makes open science a movement: a movement towards kinder, inclusive, and  collaborative science.  
+
+Taking inspiration from the Get Out The Vote movements and All We Can Save
+
+---
+# Openscapes: Let's do better science in less time, together
+
+???
+
+This is really the thinking of Openscapes: how do we welcome other researchers to the open science movement? How can we learn from my experience and scale it? 
+
+How can we do something more radical, outside of the traditional science lanes, that helps inspire and welcome researchers to help seed culture change?
+
+How do we help welcome folks to be a part of open science, and 
 
 ---
 
@@ -72,11 +172,21 @@ Get paper to cite on this (STEM inclusive pedagogy)
 
 # Julie: Openscapes momentum
 
-What is Openscapes Champtions & why is it so impactful & different (e.g. length, teams, etc.)
+What is Openscapes Champions & why is it so impactful & different (e.g. length, teams, etc.)
+
+???
+
+TODO What is Champions, distinguish the delivery mech. TEAMS, professional dev. Less burden on leads, benefit to all
+This isn’t a short workshop. Long-term mentoring SAY THIS CLEARLY
+Onboarding. reducing burden from team leads, especically for early career faculty
 
 ---
-
 (Zoom faces & logos)
+
+???
+
+So far: academia, NOAA x2, NASA, CSU, CSS, Env Canada 
+Visuals Zoom faces and Logos of all of these. Each individ campuses, Cornell etc
 
 ---
 
@@ -116,6 +226,13 @@ Examples of what we talk about
 - Putting kinder science up from (not hidden behind DS)
 - Artwork is a part of our grants
 - Also investing in DEI (line item in grants, etc.)
+- cite: blog posts with Dawn Wright and Tara Robertson
+
+???
+
+Artwork is now a line-item in our grants. We want to support creative efforts
+DEI expertise in our grants. We’re investing in many things that are important to support/prioritize: Paying for expertise we value in addition to trying to learn on our own
+
 
 ---
 
@@ -129,8 +246,15 @@ Examples of what we talk about
 
 # Closing - Julie (2 min)
 
-- Have pathways illustration as the background
+- Have pathways illustration as the background, sans rangers
 - 
+
+???
+
+Join us!
 
 
 ---
+# Thank you!
+
+
