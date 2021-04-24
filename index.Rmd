@@ -174,35 +174,33 @@ How do we help welcome folks to be a part of open science, and
 
 ---
 
-"Students often hold preconceptions that science is boring and void of creativity (Valenti et al. 2016), and these views may contribute to the ‘leaky pipeline’ of students (and especially minority students) away from STEM careers (Seymour and Hewitt 1997; Wright et al. 2016)."
-
-[Source](https://academic.oup.com/femsle/article/365/1/fnx245/4631078)
-
----
-```{r whalesharks_tweet}
-```
-
-.pull-left[
-```{r whaleshark, out.width = "100%"}
-knitr::include_graphics("img/whale_shark.png")
-```
-]
-
-.pull-right[
-```{r krill, out.width = "100%"}
-knitr::include_graphics("img/krill.png")
-```
-]
+# Openscapes: investing in welcome
 
 ???
 
-Art in all forms can help people feel like a new concept, field, or skill is welcoming for them. 
+Investing in artwork is just one of **many** ways that Openscapes is a leader in creating welcoming entryways into open science. 
+
+Hi everyone, I'm Allison - and as a past Openscapes mentee *and* artist for Openscapes, I'm really honored that Julie asked me to join her for this talk to share a bit more about my experience as an Openscapes artist and Champion. 
 
 ---
 
+[Example here: illustration + twitter response?]
 
+???
+
+Artwork can help tell a story that connects with people (you might have reacted to Julie's Star Wars analogy and images), and can help people feel like a new concept, topic, or even field is open to them. 
 
 ---
+
+???
+
+Working with Julie on Openscapes artwork also created a welcoming entry for me...
+
+I started drawing illustrations for my own statistics and data analysis courses back around 2013 and had created some one-off pieces for publications, but working with Julie to illustrate Openscapes was the first time I felt my artwork was professionally valued as an important part of an organization's vision. It also kicked off a series of collaborations, including as Artist-in-Residence with the National Center for Ecological Analysis and Synthesis and RStudio. 
+
+This ripple effect of Openscapes' leadership in investing in creative contributions...something something...
+
+But I haven't just been empowered by Openscapes' investment in welcoming artwork - I've also reimagined my "actual job" (teaching environmental data science) based on what I learned through mentorship in the Openscapes Champions program. Julie, do you mind telling us a bit more about the Champions program? (so cheesy but this might work if we're going full cheese on the Brady Bunch style co-presenting)...
 
 ---
 
@@ -240,11 +238,25 @@ Examples of what we talk about
 
 ### 3 minutes (3 slides?)
 
-- How it's impacted me, my teaching, how I feel working in data science
+???
+
+So *how* has participating in the Champions program changed how I work and teach in environmental data science? Through Openscapes I: 
+
+1. Overhauled tools & skills to modernize my course for collaborative & team data science, and now teach those in courses - impact is broad.
+
+1. Implemented strategies to work more efficiently as a teacher and colleague - I'm a better colleague to my future self. 
+
+1. Got braver! I started sharing my materials more openly, even if they weren't finished -- and now am happily contributing to open educational resources. 
 
 ---
 
-- Ripple effect of Openscapes impacts 
+- I teach ~100 students in an introductory data science course at UCSB each year, and all of them are benefitting from what I learned and continue learning from Openscapes.
+
+[image: email from students]
+
+??? 
+
+This makes me a happier & more impactful teacher, and empowers students to be leaders & teachers. 
 
 ---
 
@@ -295,4 +307,28 @@ Join us!
 ---
 # Thank you!
 
+---
 
+# Cutting room floor
+
+---
+
+---
+```{r whalesharks_tweet}
+```
+
+.pull-left[
+```{r whaleshark, out.width = "100%"}
+knitr::include_graphics("img/whale_shark.png")
+```
+]
+
+.pull-right[
+```{r krill, out.width = "100%"}
+knitr::include_graphics("img/krill.png")
+```
+]
+
+???
+
+---
