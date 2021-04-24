@@ -1,9 +1,9 @@
 ---
-title: "Presentation Ninja"
+title: "Open science as a movement and the art of Openscapes"
 subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
 author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
+  - "Julia Stewart Lowndes, PhD"
+  - "Allison Horst, PhD"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -41,23 +41,31 @@ style_duo_accent(
 )
 ```
 
-# Julie Intro - 4 min
-# The problem (slide)
+<figure out how to delete this slide>
 
 ???
 
-xckjfal
 Hi everyone! I'm Julie Lowndes, and I'm founder and co-director of Openscapes. 
 
 I'm excited to talk today about Open science as a movement and the art of Openscapes with my collaborator and friend Dr. Allison Horst!
 
-Open science is defined in many ways (Hampton) that are practical and product and process based. Data science as a key entryway to me participating and championing open science, so much so that it has become the basis of my career. 
+---
+# Open science
 
-And building on that, we're excited on open science as something more people-forward: a movement that is inclusive, xyz.  
+some way to illustrate tools/infrastructure separated from ideology
 
-I founded Openscapes based on my experience as a marine science researcher — 
+<!---
+### Open science is transparency at all stages of the research process, coupled with free and open access to data, code, and papers
 
+source: [*Hampton et al. 2015* The Tao of open science for ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1)
 
+--->
+
+???
+
+I did not set out to be a champion for open science. I understood understood the Ideology (open knowledge is better for everything) but it seemed very far from my day-to-day as a marine ecologist, collecting data on boat etc. And I didn't know much about the technology and infrastructure that facilitate and enable open science, like open source products enable sharing, distribution, archiving. 
+
+Disconnect between tools and ideology. And none of this seemed relevant to me as I struggled with my data analysis —
 
 ---
 
@@ -70,7 +78,6 @@ background-size: contain
 .footnote[ TODO FIX
 art: [@allison_horst](https://twitter.com/allison_horst)
 ]
-
 
 ???
 (rapid walk-through)
@@ -91,7 +98,7 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 
 ???
 
-But open data science changed all that for me: it was more powerful than I ever imagined, and has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science through communication and publishing on the open web. 
+But open science open data science changed all that for me: it was more powerful than I ever imagined, and has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science through communication and publishing on the open web. 
 
 ---
 ```{r hands} 
@@ -108,7 +115,7 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 
 ???
 
-And really that is because of the open data science community. The idea that we are motivated by the same vision of inclusion and reproducibility and transparency and efficiency, and we all come at it with different motivations and experiences and bring different expertise and ideas so that together we can learn more and do more and be better. 
+And really that is because of the open data science community. These are the folks creating open and inclusive tools for data science.  The idea that we are motivated by the same vision of inclusion and reproducibility and transparency and efficiency, and we all come at it with different motivations and experiences and bring different expertise and ideas so that together we can learn more and do more and be better. 
 
 ---
 exclude: TRUE
@@ -123,10 +130,18 @@ background-position: bottom left
 What this all means is that I am gained confidence and leadership ...
 
 ---
-# ROpenSci, RLadies, RStudio, Carpentries, Mozilla logos / pics of unconfs
+# Open science as a movement 
+
+illustration of the tools/ideology with communities and people logos?
+This sounds like the r4ds illustration. or the hands. 
+
+ROpenSci, RLadies, RStudio, Carpentries, Mozilla logos / pics of unconfs 
 
 ???
-For me, the R community was this entryway to the open movement. 
+
+[rework this lang]
+
+For me, the #rstats community was this entryway to open science. This made me feel included and part of something that helped me do my science better in less time. this was open science as a movement. 
 
 rOpenSci welcomed me to this community as a quite timid new coder and introduced me to seasoned developers who valued my questions and contributions. RStudio leadership has been a huge part of my path as well....
 
