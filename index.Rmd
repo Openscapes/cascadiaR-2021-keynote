@@ -74,7 +74,7 @@ Disconnect between tools and ideology. And none of this seemed relevant to me as
 ```{r luke}
 ```
 class: center, middle
-background-image: url(img/horst-starwars-luke.png)
+background-image: url(img/horst-starwars-luke.jpg)
 background-size: contain
 
 .footnote[ TODO FIX
@@ -90,7 +90,7 @@ I was lonely and demoralized when it came to data analysis. I kept having situat
 ```
 
 class: center, middle
-background-image: url(img/horst-starwars-yoda.png)
+background-image: url(img/horst-starwars-yoda.jpg)
 background-size: contain
 
 .footnote[
@@ -106,7 +106,7 @@ But open science open data science changed all that for me: it was more powerful
 ```{r hands} 
 ```
 class: center, middle
-background-image: url(img/horst-starwars-hands.png)  
+background-image: url(img/horst-starwars-hands.jpg)  
 background-size: contain
 
 
@@ -216,25 +216,36 @@ I started drawing illustrations for my own statistics and data analysis courses 
 But I haven't just been empowered by Openscapes' investment in welcoming artwork - I've also reimagined my "actual job" (teaching environmental data science) based on what I learned through mentorship in the Openscapes Champions program. Julie, do you mind telling us a bit more about the Champions program? (so cheesy but this might work if we're going full cheese on the Brady Bunch style co-presenting)...
 
 ---
+```{r champions-pathways, out.width = "85%", fig.align='center'}
+knitr::include_graphics("img/horst-champions-pathways.jpg")
+```
 
-# Openscapes Champions Program
+???
+Why yes Allison, I would love to share about the Champions program.
 
-Remote cohort-based mentorship program for research teams
+The Champions program supports scientific research groups as they shift to open science and collaborate more efficiently around data analysis and stewardship. This shift can be lonely and demoralizing like the sad animals in the lower left here, but through the Openscapes Champions program, science teams are engaged, empowered and amplified on their paths toward open science!   
+---
+## Openscapes Champions Program
+### Remote-by-design, cohort-based mentorship for research teams
 
-What is Openscapes Champions & why is it so impactful & different (e.g. length, teams, etc.)
+**Professional development and leadership skills for research teams:** 
+
+- **engage and onboard** to the open data science landscape
+- **empower** as champions and leaders
+- **amplify and welcome** as part of the growing open community
+
+Focus on building resilient research groups and reducing burden from team leads, especically for early career faculty in a changing softwarescape
 
 ???
 
-TODO What is Champions, distinguish the delivery mech. TEAMS, professional dev. Less burden on leads, benefit to all
-This isn’t a short workshop. Long-term mentoring SAY THIS CLEARLY
-Onboarding. reducing burden from team leads, especically for early career faculty
+The delivery mechanism of this training is really powerful. Openscapes Champions remotely convenes a cohort of science teams twice per month over two or four months for 1.5-hour video calls that we call Cohort Calls. This is a different kind of workshop structure (modeled after Mozilla Open Leaders and remote-by-design) where small time requirements over longer time frames fosters incremental change, accountability, and community building within the realities of scientists’ busy schedules, varying expertise and needs. 
 
-Wanted something to complement short course 2-day workshops. Thinking: teams. Thinking: how to attract folks not yet ready to sign up for a 2-day? What aabout individuals who have taken one but want to establish those practices as a team? how to make less lonely, less of a burden?
+Each Cohort Call uses the Champions Lesson Series, which is an open curriculum originally based on what was instrumental in the Ocean Health Index (OHI) team’s path to better science in less time, and openly iterated as we learn. We start off each call with a reminder of our Code of Conduct and provide multiple channels for participation, including through silent contributions to the Google Doc Agenda, breakout groups, and full-group discussions.
 
-
+Focus on building resilient research groups and reducing burden from team leads, especically for early career faculty in a changing softwarescape
 
 ---
-(Zoom faces & logos)
+(Zoom faces & logos woot)
 
 ???
 
@@ -245,12 +256,29 @@ helping groups see themselves as a team. work more openly within the team, withi
 similiarities of data issues, not differences in specific research topic
 
 ---
+```{r zoom-agenda, out.width = "100%"}
+knitr::include_graphics("img/nwfsc-zoom-gdoc.jpg")
+```
+
+
+???
+
+And this is what it looks like
+
+---
 
 Examples of what we talk about 
+TODO chat w/ Allison how to visualize this slide? Text, screenshots?
 
 - R Markdown
 - Onboarding docs & Codes of Conduct
 - Anti-racism & inclusion
+- Pathways. 
+- Establish seaside chats. 
+
+???
+
+Participants attend as teams, and come prepared for engaged participation as a whole cohort and within smaller breakout groups (as teams and mixed across teams). Discussions focus around collaborative mindsets, norms, and software to enable open, reproducible, inclusive research, with a balance of tools like R (including tidyverse, RMarkdown), GitHub (Issues), Google Drive, and Twitter and practices like examples from the OHI and previous Champions, inclusive design, psychological safely, and facilitation techniques. Teams intentionally have a mix of data/coding experience and responsibilities; there are no coding prerequisites to participate. 
 
 ---
 
@@ -292,19 +320,36 @@ This makes me a happier & more impactful teacher, and empowers students to be le
 
 ---
 
-# Julie: we're learning & iterating (3 minute section)
+# We're learning & iterating openly as we go
 
-- Learning w/ Tara & Dawn
-- Putting kinder science up from (not hidden behind DS)
-- Artwork is a part of our grants
-- Also investing in DEI (line item in grants, etc.)
-- cite: blog posts with Dawn Wright and Tara Robertson
+- sharing as we go. publications, blogs, talks. all materials are open source to reuse. 
+
+- Community engagement, partnerships to meet specific community needs
+
+- expanding the team and partners
+
+---
+Really, trying to amplify. More and more stories and examples of folks championing open science, and having it become part of their jobs. Need more of this. 
+
+This work is valuable. We need it to be valued within our current systems. 
+
+- artwork and DEI in our grants. 
 
 ???
 
 Artwork is now a line-item in our grants. We want to support creative efforts
 DEI expertise in our grants. We’re investing in many things that are important to support/prioritize: Paying for expertise we value in addition to trying to learn on our own
 
+---
+
+Getting comfortable sharing imperfect work, being bolder.  iterating, learning 
+
+- Putting kinder science up from (not hidden behind DS)
+- Learning w/ Tara & Dawn
+- cite: blog posts with Dawn Wright and Tara Robertson
+
+???
+Being comfortable sharing imperfect work has been a big part of working with Allison.......
 
 ---
 
