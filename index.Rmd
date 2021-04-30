@@ -188,17 +188,17 @@ Hi everyone, I'm Allison - and as a past Openscapes mentee *and* artist for Open
 
 ???
 
-Artwork can help tell a story that connects with people (you might have reacted to Julie's Star Wars analogy and images), and can help people feel like a new concept, topic, or even field is open to them. 
+Artwork is powerful because it help scientists tell a story that connects with people. For example, you might have reacted to Julie's Star Wars analogy and illustrations. Artwork can also help people feel like a new concept, topic, or even field is open to them. This is something Julie realized early on in Openscapes development - from Star Wars to open landscapes and beyond, art has always been a core part of the Openscapes strategy to welcome more people into the landscape of open data science.
 
 ---
 
+[some openscapes artwork?]
+
 ???
 
-Working with Julie on Openscapes artwork also created a welcoming entry for me...
+And while the focus of my artwork with Openscapes has been to help welcome *others* into their program, working with Julie as an Openscapes artist also created a welcoming entry for me...
 
-I started drawing illustrations for my own statistics and data analysis courses back around 2013 and had created some one-off pieces for publications, but working with Julie to illustrate Openscapes was the first time I felt my artwork was professionally valued as an important part of an organization's vision. It also kicked off a series of collaborations, including as Artist-in-Residence with the National Center for Ecological Analysis and Synthesis and RStudio. 
-
-This ripple effect of Openscapes' leadership in investing in creative contributions...something something...
+I started drawing illustrations for my own statistics and data analysis courses back around 2013 and had created some one-off pieces for publications, but working with Julie to illustrate Openscapes back in 2018 was the first time I felt my artwork was professionally valued as part of an organization's overall vision. It also kicked off a series of collaborations, including as Artist-in-Residence with the National Center for Ecological Analysis and Synthesis and RStudio - opportunities that I wouldn't have had without Julie's advocacy...and friendly prodding to get on twitter.
 
 But I haven't just been empowered by Openscapes' investment in welcoming artwork - I've also reimagined my "actual job" (teaching environmental data science) based on what I learned through mentorship in the Openscapes Champions program. Julie, do you mind telling us a bit more about the Champions program? (so cheesy but this might work if we're going full cheese on the Brady Bunch style co-presenting)...
 
@@ -242,19 +242,21 @@ Examples of what we talk about
 
 So *how* has participating in the Champions program changed how I work and teach in environmental data science? Through Openscapes I: 
 
-1. Overhauled tools & skills to modernize my course for collaborative & team data science, and now teach those in courses - impact is broad.
+1. Overhauled tools & skills to modernize my course for collaborative & team data science, and now teach those in courses - the impact and reach is broad.
 
-1. Implemented strategies to work more efficiently as a teacher and colleague - I'm a better colleague to my future self. 
+1. Implemented strategies to work more efficiently as a teacher and colleague - I'm especially a better colleague to my future self. 
 
-1. Got braver! I started sharing my materials more openly, even if they weren't finished -- and now am happily contributing to open educational resources. 
+1. Got braver! I started sharing my materials more openly, even if they weren't finished -- and now am happily contributing to open educational resources more fearlessly. 
 
 ---
-
-- I teach ~100 students in an introductory data science course at UCSB each year, and all of them are benefitting from what I learned and continue learning from Openscapes.
 
 [image: email from students]
 
 ??? 
+
+- As an example of reach: I teach ~100 students in an introductory data science course at UCSB each year, and all of them are benefitting from what I learned and continue learning from Openscapes - and the ripple effect is real! 
+
+Here's an email I received from a recent graduate, telling how they had been able to lead a git and GitHub workshop in their new job -- which is a direct outcome of Openscapes' encouragement to include modern tools for collaboration in my courses.
 
 This makes me a happier & more impactful teacher, and empowers students to be leaders & teachers. 
 
