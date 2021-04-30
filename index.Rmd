@@ -1,5 +1,5 @@
 ---
-title: "Open science as a movement and the art of Openscapes"
+title: "Open science as a movement <br> and the art of Openscapes"
 subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
 author: 
   - "Julia Stewart Lowndes, PhD"
@@ -28,6 +28,8 @@ knitr::opts_chunk$set(
   fig.show = TRUE,
   hiline = TRUE
 )
+
+# Google slides: https://docs.google.com/document/d/1JbDzpiMi0n9iePYKLfwv69ljQKnFHwZ7/edit
 ```
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
@@ -130,30 +132,41 @@ background-position: bottom left
 What this all means is that I am gained confidence and leadership ...
 
 ---
-# Open science as a movement 
+# Open data science
 
 illustration of the tools/ideology with communities and people logos?
 This sounds like the r4ds illustration. or the hands. 
 
 ROpenSci, RLadies, RStudio, Carpentries, Mozilla logos / pics of unconfs 
 
+Nature paper
+
 ???
 
 [rework this lang]
 
-For me, the #rstats community was this entryway to open science. This made me feel included and part of something that helped me do my science better in less time. this was open science as a movement. 
+For me, the #rstats community was this entryway to open science. Open data science. This made me feel included and part of something that helped me do my science better in less time.
 
+This helped us reimagine our data analysis with the Ocean Health Index. helped us articulate reproduciblity woes and solutions, and collab and comms
+
+
+<!--- 
 rOpenSci welcomed me to this community as a quite timid new coder and introduced me to seasoned developers who valued my questions and contributions. RStudio leadership has been a huge part of my path as well....
 
 Through the Carpentries I learned how to teach with empathy for my learners, and we started a Mozilla study group called Eco-Data-Science in 2016 and and RLadies chapter in 2018. RLadies has been so transformational in my life and has helped me become the feminist I want to be: which is about supporting women and gender minorities, and thinking about data feminism as a way to examine and challenge power (cite)
 
+--->
+
 ---
 
-# Open science as a movement: 
+# Open science as a movement
 
 ## Kinder, inclusive, collaborative science
 
+<!---
 "Good communities don't make themselves. We've got a lot to be grateful for, and we all have to do our part to keep it going" — Robin Wall Kimmerer's Dad, *Braiding Sweetgrass*
+
+--->
 
 ???
 
@@ -170,7 +183,7 @@ This is really the thinking of Openscapes: how do we welcome other researchers t
 
 How can we do something more radical, outside of the traditional science lanes, that helps inspire and welcome researchers to help seed culture change?
 
-How do we help welcome folks to be a part of open science, and 
+Different ways of contributing and getting credit in science, make it less lonely?
 
 ---
 
@@ -204,7 +217,9 @@ But I haven't just been empowered by Openscapes' investment in welcoming artwork
 
 ---
 
-# Julie: Openscapes momentum
+# Openscapes Champions Program
+
+Remote cohort-based mentorship program for research teams
 
 What is Openscapes Champions & why is it so impactful & different (e.g. length, teams, etc.)
 
@@ -216,6 +231,8 @@ Onboarding. reducing burden from team leads, especically for early career facult
 
 Wanted something to complement short course 2-day workshops. Thinking: teams. Thinking: how to attract folks not yet ready to sign up for a 2-day? What aabout individuals who have taken one but want to establish those practices as a team? how to make less lonely, less of a burden?
 
+
+
 ---
 (Zoom faces & logos)
 
@@ -223,6 +240,9 @@ Wanted something to complement short course 2-day workshops. Thinking: teams. Th
 
 So far: academia, NOAA x2, NASA, CSU, CSS, Env Canada 
 Visuals Zoom faces and Logos of all of these. Each individ campuses, Cornell etc
+
+helping groups see themselves as a team. work more openly within the team, within the cohort, and beyond.
+similiarities of data issues, not differences in specific research topic
 
 ---
 
