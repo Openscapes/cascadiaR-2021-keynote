@@ -203,6 +203,12 @@ Hi everyone, I'm Allison - and as a past Openscapes mentee *and* artist for Open
 
 Artwork is powerful because it help scientists tell a story that connects with people. For example, you might have reacted to Julie's Star Wars analogy and illustrations. Artwork can also help people feel like a new concept, topic, or even field is open to them. This is something Julie realized early on in Openscapes development - from Star Wars to open landscapes and beyond, art has always been a core part of the Openscapes strategy to welcome more people into the landscape of open data science.
 
+Artwork & creative contributions generally. 
+
+- Other illustrations I can show (ecological R4DS?) art has been a big part of telling the story of Openscapes. 
+
+- Series of boxes (mutual benefit of reproducible > version control, etc.)
+
 ---
 
 [some openscapes artwork?]
@@ -299,6 +305,8 @@ So *how* has participating in the Champions program changed how I work and teach
 ---
 
 [image: email from students]
+
+beep boop
 
 ??? 
 
