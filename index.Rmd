@@ -52,23 +52,45 @@ Hi everyone! I'm Julie Lowndes, and I'm founder and co-director of Openscapes.
 I'm excited to talk today about Open science as a movement and the art of Openscapes with my collaborator and friend Dr. Allison Horst!
 
 ---
-# Open science
-
-some way to illustrate tools/infrastructure separated from ideology
-
-<!---
-### Open science is transparency at all stages of the research process, coupled with free and open access to data, code, and papers
-
-source: [*Hampton et al. 2015* The Tao of open science for ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1)
-
---->
+exclude: TRUE
+```{r horst-repro-boxes, out.width = "100%", fig.align='center'}
+knitr::include_graphics("img/horst-repro-boxes.png")
+## https://commons.wikimedia.org/wiki/File:Osc2021-unesco-open-science-no-gray.png
+# https://en.wikipedia.org/wiki/Open_science
+```
 
 ???
+Open science is a big movement for open access, xyz, and we got into it through data analysis
+
+
+---
+# Open science
+```{r os, out.width = "85%", fig.align='center'}
+knitr::include_graphics("img/open-science-wikipedia.png")
+## https://commons.wikimedia.org/wiki/File:Osc2021-unesco-open-science-no-gray.png
+# https://en.wikipedia.org/wiki/Open_science
+```
+
+TODO cite
+
+???
+
+Open Science (OS) is the movement to make scientific research, data and their dissemination available to any member of an inquiring society, from professionals to citizens. There is a lot ow great work going on to make this more possible.
+
+But it can be hard to think about entryways, how to get started. 
+
+<!---
+# Open science
+
+**Open science is a papers, etc**
+
+**Open data science is a powerful entryway and a way to help make open science a movement and inclusive**
 
 I did not set out to be a champion for open science. I understood understood the Ideology (open knowledge is better for everything) but it seemed very far from my day-to-day as a marine ecologist, collecting data on boat etc. And I didn't know much about the technology and infrastructure that facilitate and enable open science, like open source products enable sharing, distribution, archiving. 
 
 Disconnect between tools and ideology. And none of this seemed relevant to me as I struggled with my data analysis —
 
+--->
 ---
 
 ```{r luke}
@@ -82,8 +104,9 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 ]
 
 ???
-(rapid walk-through)
-I was lonely and demoralized when it came to data analysis. I kept having situations where I couldn't solve the problem in front of me with the skillsets I had, whether this was learning to code in a total panic by myself or collaborating with others through forwarded emails with attachments like data_analys_final_final_final.xls
+Meanwhile, the day-to-day of research can be really lonely and demoralizing. We have all been in situations where we are staring at a problem that we can’t solve with the skillsets we have. I ...
+
+I kept having situations where I couldn't solve the problem in front of me with the skillsets I had, whether this was learning to code in a total panic by myself or collaborating with others through forwarded emails with attachments like data_analys_final_final_final.xls
 
 ---
 ```{r yoda}
@@ -97,10 +120,9 @@ background-size: contain
 art: [@allison_horst](https://twitter.com/allison_horst)
 ]
 
-
 ???
 
-But open science open data science changed all that for me: it was more powerful than I ever imagined, and has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science through communication and publishing on the open web. 
+But open science is a complete game-changer here. I think of it like the Force: more powerful than I ever imagined, and has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science through communication and publishing on the open web. 
 
 ---
 ```{r hands} 
@@ -117,7 +139,9 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 
 ???
 
-And really that is because of the open data science community. These are the folks creating open and inclusive tools for data science.  The idea that we are motivated by the same vision of inclusion and reproducibility and transparency and efficiency, and we all come at it with different motivations and experiences and bring different expertise and ideas so that together we can learn more and do more and be better. 
+But it's really not only about the tools and skills, it is about the people. What is possible is because of the open data science community. 
+
+These are the folks creating open and inclusive tools for data science.  The idea that we are motivated by the same vision of inclusion and reproducibility and transparency and efficiency, and we all come at it with different motivations and experiences and bring different expertise and ideas so that together we can learn more and do more and be better. 
 
 ---
 exclude: TRUE
@@ -132,20 +156,12 @@ background-position: bottom left
 What this all means is that I am gained confidence and leadership ...
 
 ---
-# Open data science
-
-illustration of the tools/ideology with communities and people logos?
-This sounds like the r4ds illustration. or the hands. 
-
-ROpenSci, RLadies, RStudio, Carpentries, Mozilla logos / pics of unconfs 
-
-Nature paper
+Rey + logos: ROpenSci, RLadies, RStudio, Carpentries, Mozilla logos / pics of unconfs 
 
 ???
 
-[rework this lang]
-
-For me, the #rstats community was this entryway to open science. Open data science. This made me feel included and part of something that helped me do my science better in less time.
+What made me feel powerful and like part of the open science movement was the #rstats community. 
+R was my entryway to open science. Open data science. This made me feel included and part of something that helped me do my science better in less time.
 
 This helped us reimagine our data analysis with the Ocean Health Index. helped us articulate reproduciblity woes and solutions, and collab and comms
 
@@ -163,12 +179,12 @@ Through the Carpentries I learned how to teach with empathy for my learners, and
 
 ## Kinder, inclusive, collaborative science
 
-<!---
-"Good communities don't make themselves. We've got a lot to be grateful for, and we all have to do our part to keep it going" — Robin Wall Kimmerer's Dad, *Braiding Sweetgrass*
+(Screenshots: Nature paper,  kinder science, R for Excel?)
 
---->
 
 ???
+
+I was so empowered I wanted to contribute back to the movement and focus on welcoming others -- helping them find this entryways faster than I did.. I've written about my experience, and created tutorials for people to learn as well. 
 
 All of this together makes open science a movement: a movement towards kinder, inclusive, and  collaborative science.  
 
@@ -176,6 +192,8 @@ Taking inspiration from the Get Out The Vote movements and All We Can Save
 
 ---
 # Openscapes: Let's do better science in less time, together
+
+**Openscapes** helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.
 
 ???
 
@@ -234,11 +252,11 @@ The Champions program supports scientific research groups as they shift to open 
 ## Openscapes Champions Program
 ### Remote-by-design, cohort-based mentorship for research teams
 
-**Professional development and leadership skills for research teams:** 
-
 - **engage and onboard** to the open data science landscape
 - **empower** as champions and leaders
 - **amplify and welcome** as part of the growing open community
+
+Professional development and leadership skills for research teams. Helping them see themselves as a team and work more openly within their team and across teams in the cohort.
 
 Focus on building resilient research groups and reducing burden from team leads, especically for early career faculty in a changing softwarescape
 
@@ -262,6 +280,7 @@ helping groups see themselves as a team. work more openly within the team, withi
 similiarities of data issues, not differences in specific research topic
 
 ---
+exclude: TRUE
 ```{r zoom-agenda, out.width = "100%"}
 knitr::include_graphics("img/nwfsc-zoom-gdoc.jpg")
 ```
@@ -281,7 +300,9 @@ TODO chat w/ Allison how to visualize this slide? Text, screenshots?
 - Anti-racism & inclusion
 - Pathways. 
 - Establish seaside chats. 
-- link to Cabunoc Mayes et al.
+
+
+TODO cite Cabunoc Mayes et al.
 
 ???
 
