@@ -51,6 +51,10 @@ Hi everyone! I'm Julie Lowndes, and I'm founder and co-director of Openscapes.
 
 I'm excited to talk today about Open science as a movement and the art of Openscapes with my collaborator and friend Dr. Allison Horst!
 
+Abstract: 
+The open science movement is “a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding” ([Ramachandran et al 2021](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020EA001562)). We’ve felt included in this movement through the #rstats community, and argue that open data science is a powerful entryway to welcome researchers to open science – one that transforms open science from an aspirational idea to a tangible daily benefit for efficiency, reproducibility, and collaboration. We will share how Openscapes is helping to onboard more research teams to the open science movement, in part through artwork to represent and develop ideas to make open science more inclusive and kind. 
+
+
 ---
 exclude: TRUE
 ```{r horst-repro-boxes, out.width = "100%", fig.align='center'}
@@ -73,9 +77,16 @@ knitr::include_graphics("img/open-science-wikipedia.png")
 
 TODO cite
 
-???
+---
 
-Open Science (OS) is the movement to make scientific research, data and their dissemination available to any member of an inquiring society, from professionals to citizens. There is a lot ow great work going on to make this more possible.
+# OR:: Open science
+
+
+###  "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding" 
+
+- Ramachandran, Bugbee, and Murphy 2021
+
+???
 
 But it can be hard to think about entryways, how to get started. 
 
