@@ -66,24 +66,6 @@ knitr::include_graphics("img/open-science-wikipedia.png")
 
 TODO cite
 
----
-
-# Open science
-
-
-###  "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding" - [Ramachandran, Bugbee, and Murphy 2021](https://twitter.com/deepseadawn/status/1389262435022819330)
-
-```{r ramachandran, out.width = "25%", fig.align='center'}
-knitr::include_graphics("img/ramachandran-open-science.png")
-```
-
-
-
-???
-Open science has a lot of definitions. I like this one from Ramachandran et al: "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding"
-
-This is a really inspiring definition that I wholeheartedly buy into. This is how we can make science more efficient, transparent, and inclusive.
-
 <!---
 broader definitions of open science acknowledge that science is both a body of
 54 knowledge and a systematic method for thinking. Broad definitions place an emphasis on
@@ -132,6 +114,24 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 ???
 
 But open science is a complete game-changer here, for data-intensive research. I think of open science like the Force: more powerful than I ever imagined, and something that I could see and learn through examples and mentorship from others. And like the Force, open science has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science in modern ways like through teaching and sharing on the open web. 
+
+---
+# Open science
+
+
+###  "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding" - [Ramachandran, Bugbee, and Murphy 2021](https://twitter.com/deepseadawn/status/1389262435022819330)
+
+```{r ramachandran, out.width = "25%", fig.align='center'}
+knitr::include_graphics("img/ramachandran-open-science.png")
+```
+
+
+
+???
+Open science has a lot of definitions. I like this one from Ramachandran et al: "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding"
+
+This is a really inspiring definition that I wholeheartedly buy into. This is how we can make science more efficient, transparent, and inclusive.
+
 
 ---
 ```{r hands} 
