@@ -101,6 +101,7 @@ I did not set out to be a champion for open science. I understood understood the
 Disconnect between tools and ideology. And none of this seemed relevant to me as I struggled with my data analysis —
 
 --->
+
 ---
 
 ```{r luke}
@@ -162,7 +163,7 @@ background-position: bottom left
 What this all means is that I am gained confidence and leadership ...
 
 ---
-```{r rey-communitie, out.width = "100%", fig.align='center'}
+```{r rey-communities, out.width = "100%", fig.align='center'}
 knitr::include_graphics("img/horst-rey-communities.jpg")
 ```
 
@@ -176,37 +177,47 @@ R was my entryway to open science. The R communityintroduced me to concepts of d
 
 # Open science as a movement
 
-## Kinder, inclusive, collaborative science
+(Screenshots: Nature paper, kinder science, R for Excel)
 
-(Screenshots: Nature paper,  kinder science, R for Excel?)
+## Kinder, more collaborative and inclusive science
 
 
 ???
 
-And since then, I have increasingly empowered by open science and driven to welcome more researchers to be a part of the open science movement.
+And since then, I have increasingly empowered by open science and driven to welcome more researchers to be a part of the open science movement
 
+I led publications describing my team's path to better science in less time through open data science, and how open software enables kinder science. 
 
-This helped us reimagine our data analysis with the Ocean Health Index. helped us articulate reproduciblity woes and solutions, and collab and comms
+I've also learned how to teach through the Carpentries and developed trainings to help others work in the way we do. 
 
+All of this together makes open science a movement: a movement for kinder, more collaborative and inclusive science. 
 
-I was so empowered I wanted to contribute back to the movement and focus on welcoming others -- helping them find this entryways faster than I did.. I've written about my experience, and created tutorials for people to learn as well. 
+I started to think about how to help operationalize the lessons my team had learned and help other teams acheive this as well, while growing the movement. 
 
-All of this together makes open science a movement: a movement towards kinder, inclusive, and  collaborative science.  
-
-Taking inspiration from the Get Out The Vote movements and All We Can Save
+This led me to found Openscapes through a fellowship with Mozilla
 
 ---
-# Openscapes: Let's do better science in less time, together
+```{r openscapes-grassland, out.width = '100%', fig.align='center'}
+knitr::include_graphics("img/horst_openscapes_grassland_1500px-text.png")
+```
 
-**Openscapes** helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.
+```{r enage-empower-amplify, out.width = "100%", fig.align='center'}
+knitr::include_graphics("img/engage-empower-amplify-web.png")
+```
+
+(mozilla)
 
 ???
 
-This is really the thinking of Openscapes: how do we welcome other researchers to the open science movement? How can we learn from my experience and scale it? 
+Openscapes helps research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.
+
+I wanted to create an approach that could scale my experience so that more researchers could feel as empowered by the force of open data science as I have. I thought that a place where Openscapes could help could be in engaging researchers to build awareness and excitement, empowering them to build confidence and skills, and amplifying them to build champions and communities
 
 How can we do something more radical, outside of the traditional science lanes, that helps inspire and welcome researchers to help seed culture change?
 
 Different ways of contributing and getting credit in science, make it less lonely?
+
+
 
 ---
 
@@ -307,9 +318,11 @@ The Champions program supports scientific research groups as they shift to open 
 ## Openscapes Champions Program
 ### Remote-by-design, cohort-based mentorship for research teams
 
-- **engage and onboard** to the open data science landscape
-- **empower** as champions and leaders
-- **amplify and welcome** as part of the growing open community
+Welcomes and onboards research teams to open data science:
+
+- reimagine data analysis
+- develop modern skills that are of immediate value to them
+- cultivate collaborative and inclusive research teams.
 
 Professional development and leadership skills for research teams. Helping them see themselves as a team and work more openly within their team and across teams in the cohort.
 
