@@ -179,7 +179,13 @@ R was my entryway to open science. The R communityintroduced me to concepts of d
 
 (Screenshots: Nature paper, kinder science, R for Excel)
 
-## Kinder, more collaborative and inclusive science
+<br>
+<br>
+<br>
+<br>
+
+
+### Kinder, more collaborative and inclusive science
 
 
 ???
@@ -205,7 +211,6 @@ knitr::include_graphics("img/horst_openscapes_grassland_1500px-text.png")
 knitr::include_graphics("img/engage-empower-amplify-web.png")
 ```
 
-(mozilla)
 
 ???
 
@@ -216,8 +221,6 @@ I wanted to create an approach that could scale my experience so that more resea
 How can we do something more radical, outside of the traditional science lanes, that helps inspire and welcome researchers to help seed culture change?
 
 Different ways of contributing and getting credit in science, make it less lonely?
-
-
 
 ---
 
@@ -316,35 +319,61 @@ Why yes Allison, I would love to share about the Champions program.
 The Champions program supports scientific research groups as they shift to open science and collaborate more efficiently around data analysis and stewardship. This shift can be lonely and demoralizing like the sad animals in the lower left here, but through the Openscapes Champions program, science teams are engaged, empowered and amplified on their paths toward open science!   
 ---
 ## Openscapes Champions Program
-### Remote-by-design, cohort-based mentorship for research teams
+### Welcomes and onboards research teams to open data science by:
 
-Welcomes and onboards research teams to open data science:
+- **reimagine data analysis**
+- **develop modern skills that are of immediate value to them**
+- **cultivate collaborative and inclusive research teams**
 
-- reimagine data analysis
-- develop modern skills that are of immediate value to them
-- cultivate collaborative and inclusive research teams.
+**Remote-by-design, cohort-based mentorship model** developed by Abby Cabunoc Mayes, Mozilla Open Leaders
 
-Professional development and leadership skills for research teams. Helping them see themselves as a team and work more openly within their team and across teams in the cohort.
-
-Focus on building resilient research groups and reducing burden from team leads, especically for early career faculty in a changing softwarescape
+**Focus on building resilient research groups in a changing softwarescape** and reducing burden from team leads, especially for early career faculty, lecturers, and program leads
 
 ???
 
-The delivery mechanism of this training is really powerful. Openscapes Champions remotely convenes a cohort of science teams twice per month over two or four months for 1.5-hour video calls that we call Cohort Calls. This is a different kind of workshop structure (modeled after Mozilla Open Leaders and remote-by-design) where small time requirements over longer time frames fosters incremental change, accountability, and community building within the realities of scientists’ busy schedules, varying expertise and needs. 
+---
+```{r loop-champions-lessons, out.width = "100%"}
+knitr::include_graphics("img/loop-champions-lessons.png")
+```
 
-Each Cohort Call uses the Champions Lesson Series, which is an open curriculum originally based on what was instrumental in the Ocean Health Index (OHI) team’s path to better science in less time, and openly iterated as we learn. We start off each call with a reminder of our Code of Conduct and provide multiple channels for participation, including through silent contributions to the Google Doc Agenda, breakout groups, and full-group discussions.
+<!---
 
-Focus on building resilient research groups and reducing burden from team leads, especically for early career faculty in a changing softwarescape
+- R Markdown
+- Onboarding docs & Codes of Conduct
+- Anti-racism & inclusion
+- Pathways. 
+- Establish seaside chats. 
+
+--->
+
+TODO complete, this is the idea
+???
+
+
+These are some examples of what we talk about — focusing on the tooling and people that make this beautiful feedback loop that fuels open data science.  
+
+Discussions focus around collaborative mindsets, norms, and software to enable open, reproducible, inclusive research, with a balance of tools like R (including tidyverse, RMarkdown), GitHub (Issues), Google Drive, and Twitter and practices like examples from the OHI and previous Champions, inclusive design, psychological safely, and facilitation techniques. Teams intentionally have a mix of data/coding experience and responsibilities; there are no coding prerequisites to participate. 
+
+These are some of their products, but even more important are their stories.
+
 
 ---
 (Zoom faces & logos woot)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+### Biggest impact: helping researchers see themselves as a team, and develop confidence and skills to share openly within their team, cohort, and beyond.
 
 ???
 
 So far: academia, NOAA x2, NASA, CSU, CSS, Env Canada 
 Visuals Zoom faces and Logos of all of these. Each individ campuses, Cornell etc
 
-helping groups see themselves as a team. work more openly within the team, within the cohort, and beyond.
+
 similiarities of data issues, not differences in specific research topic
 
 ---
@@ -357,26 +386,6 @@ knitr::include_graphics("img/nwfsc-zoom-gdoc.jpg")
 ???
 
 And this is what it looks like
-
----
-
-Examples of what we talk about 
-TODO chat w/ Allison how to visualize this slide? Text, screenshots?
-
-- R Markdown
-- Onboarding docs & Codes of Conduct
-- Anti-racism & inclusion
-- Pathways. 
-- Establish seaside chats. 
-
-show repos
-TODO cite Cabunoc Mayes et al.
-
-???
-
-Participants attend as teams, and come prepared for engaged participation as a whole cohort and within smaller breakout groups (as teams and mixed across teams). Discussions focus around collaborative mindsets, norms, and software to enable open, reproducible, inclusive research, with a balance of tools like R (including tidyverse, RMarkdown), GitHub (Issues), Google Drive, and Twitter and practices like examples from the OHI and previous Champions, inclusive design, psychological safely, and facilitation techniques. Teams intentionally have a mix of data/coding experience and responsibilities; there are no coding prerequisites to participate. 
-
-These are some of their products, but even more important are their stories.
 
 ---
 
@@ -428,10 +437,7 @@ I am a happier and more impactful teacher because of Openscapes.
 
 - expanding the team and partners
 
----
-Really, trying to amplify. More and more stories and examples of folks championing open science, and having it become part of their jobs. Need more of this. 
-
-This work is valuable. We need it to be valued within our current systems. 
+- Really, trying to amplify. More and more stories and examples of folks championing open science, and having it become part of their jobs. Need more of this. This work is valuable. We need it to be valued within our current systems. 
 
 - artwork and DEI in our grants. 
 
