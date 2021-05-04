@@ -57,18 +57,6 @@ The open science movement is “a collaborative culture enabled by technology th
 
 ---
 exclude: TRUE
-```{r horst-repro-boxes, out.width = "100%", fig.align='center'}
-knitr::include_graphics("img/horst-repro-boxes.png")
-## https://commons.wikimedia.org/wiki/File:Osc2021-unesco-open-science-no-gray.png
-# https://en.wikipedia.org/wiki/Open_science
-```
-
-???
-Open science is a big movement for open access, xyz, and we got into it through data analysis
-
-
----
-exclude: TRUE
 # Open science
 ```{r os, out.width = "85%", fig.align='center'}
 knitr::include_graphics("img/open-science-wikipedia.png")
@@ -83,22 +71,18 @@ TODO cite
 # Open science
 
 
-###  "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding" 
+###  "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding" - [Ramachandran, Bugbee, and Murphy 2021](https://twitter.com/deepseadawn/status/1389262435022819330)
 
-- Ramachandran, Bugbee, and Murphy 2021
-
-```{r champions-pathways, out.width = "85%", fig.align='center'}
-knitr::include_graphics("img/horst-champions-pathways.jpg")
+```{r ramachandran, out.width = "25%", fig.align='center'}
+knitr::include_graphics("img/ramachandran-open-science.png")
 ```
 
 
-ramachandran-open-science.png
-
-And their figure
 
 ???
+Open science has a lot of definitions. I like this one from Ramachandran et al: "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding"
 
-But it can be hard to think about entryways, how to get started. 
+This is a really inspiring definition that I wholeheartedly buy into. This is how we can make science more efficient, transparent, and inclusive.
 
 <!---
 broader definitions of open science acknowledge that science is both a body of
@@ -130,9 +114,7 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 ]
 
 ???
-Meanwhile, the day-to-day of research can be really lonely and demoralizing. We have all been in situations where we are staring at a problem that we can’t solve with the skillsets we have. I ...
-
-I kept having situations where I couldn't solve the problem in front of me with the skillsets I had, whether this was learning to code in a total panic by myself or collaborating with others through forwarded emails with attachments like data_analys_final_final_final.xls
+Meanwhile, the day-to-day of research can be really lonely and demoralizing. We have all been in situations like Luke Skywalker here when we are staring at a problem that we can’t solve with the skillsets we have. As a marine ecologist without formal training in data skills, this has happened to me in big and small ways, from managing files like data_analysis_final_final_final.xls or feeling comfortable sharing my home-grown and messy code with colleagues.
 
 ---
 ```{r yoda}
@@ -148,7 +130,7 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 
 ???
 
-But open science is a complete game-changer here. I think of it like the Force: more powerful than I ever imagined, and has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science through communication and publishing on the open web. 
+But open science is a complete game-changer here, for data-intensive research. I think of open science like the Force: more powerful than I ever imagined, and something that I could see and learn through examples and mentorship from others. And like the Force, open science has not only helped me solve challenges ahead of me, it's broadened my imagination of what is possible with the research questions I can ask and how I can contribute to science in modern ways like through teaching and sharing on the open web. 
 
 ---
 ```{r hands} 
@@ -165,9 +147,7 @@ art: [@allison_horst](https://twitter.com/allison_horst)
 
 ???
 
-But it's really not only about the tools and skills, it is about the people. What is possible is because of the open data science community. 
-
-These are the folks creating open and inclusive tools for data science.  The idea that we are motivated by the same vision of inclusion and reproducibility and transparency and efficiency, and we all come at it with different motivations and experiences and bring different expertise and ideas so that together we can learn more and do more and be better. 
+But open science is really not only about the skills and outcomes, it is about the people who participate and contribute to the community and grow the movement. These are people that are motivated by the same vision of inclusion and reproducibility and transparency and efficiency for science, and bring different experiences expertise and ideas so that together we can learn more and do more and be better. 
 
 ---
 exclude: TRUE
@@ -182,22 +162,15 @@ background-position: bottom left
 What this all means is that I am gained confidence and leadership ...
 
 ---
-Rey + logos: ROpenSci, RLadies, RStudio, Carpentries, Mozilla logos / pics of unconfs 
+```{r rey-communitie, out.width = "100%", fig.align='center'}
+knitr::include_graphics("img/horst-rey-communities.jpg")
+```
+
 
 ???
 
-What made me feel powerful and like part of the open science movement was the #rstats community. 
-R was my entryway to open science. Open data science. This made me feel included and part of something that helped me do my science better in less time.
-
-This helped us reimagine our data analysis with the Ocean Health Index. helped us articulate reproduciblity woes and solutions, and collab and comms
-
-
-<!--- 
-rOpenSci welcomed me to this community as a quite timid new coder and introduced me to seasoned developers who valued my questions and contributions. RStudio leadership has been a huge part of my path as well....
-
-Through the Carpentries I learned how to teach with empathy for my learners, and we started a Mozilla study group called Eco-Data-Science in 2016 and and RLadies chapter in 2018. RLadies has been so transformational in my life and has helped me become the feminist I want to be: which is about supporting women and gender minorities, and thinking about data feminism as a way to examine and challenge power (cite)
-
---->
+For me, what made me feel powerful and like part of the open science movement was the #rstats community. 
+R was my entryway to open science. The R communityintroduced me to concepts of data science and the benefit of open and inclusive practices, which I think of as open data science. 
 
 ---
 
@@ -209,6 +182,12 @@ Through the Carpentries I learned how to teach with empathy for my learners, and
 
 
 ???
+
+And since then, I have increasingly empowered by open science and driven to welcome more researchers to be a part of the open science movement.
+
+
+This helped us reimagine our data analysis with the Ocean Health Index. helped us articulate reproduciblity woes and solutions, and collab and comms
+
 
 I was so empowered I wanted to contribute back to the movement and focus on welcoming others -- helping them find this entryways faster than I did.. I've written about my experience, and created tutorials for people to learn as well. 
 
