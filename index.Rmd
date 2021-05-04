@@ -68,6 +68,7 @@ Open science is a big movement for open access, xyz, and we got into it through 
 
 
 ---
+exclude: TRUE
 # Open science
 ```{r os, out.width = "85%", fig.align='center'}
 knitr::include_graphics("img/open-science-wikipedia.png")
@@ -79,23 +80,37 @@ TODO cite
 
 ---
 
-# OR:: Open science
+# Open science
 
 
 ###  "a collaborative culture enabled by technology that empowers the open sharing of data, information and knowledge within the scientific community and the wider public to accelerate scientific research and understanding" 
 
 - Ramachandran, Bugbee, and Murphy 2021
 
+```{r champions-pathways, out.width = "85%", fig.align='center'}
+knitr::include_graphics("img/horst-champions-pathways.jpg")
+```
+
+
+ramachandran-open-science.png
+
+And their figure
+
 ???
 
 But it can be hard to think about entryways, how to get started. 
 
 <!---
-# Open science
+broader definitions of open science acknowledge that science is both a body of
+54 knowledge and a systematic method for thinking. Broad definitions place an emphasis on
+55 encouraging a culture of openness (Bartling & Friesike, 2014) that includes the entire process of
+56 conducting science (National Academies of Sciences, Engineering, and Medicine, 2018) and
+57 encourages open collaboration and access to knowledge (Vicente-Saez & Martinez-Fuentes,
+58 2018). In its broadest definition, the term ‘open science’ refers to a paradigm shift in how the
+59 methods of science are conducted. This expansive vision of open science acknowledges that
+60 rapid technology changes, primarily driven by the Internet, may enable a second scientific
+61 revolution that fundamentally changes research methods and standards across science.
 
-**Open science is a papers, etc**
-
-**Open data science is a powerful entryway and a way to help make open science a movement and inclusive**
 
 I did not set out to be a champion for open science. I understood understood the Ideology (open knowledge is better for everything) but it seemed very far from my day-to-day as a marine ecologist, collecting data on boat etc. And I didn't know much about the technology and infrastructure that facilitate and enable open science, like open source products enable sharing, distribution, archiving. 
 
@@ -312,12 +327,14 @@ TODO chat w/ Allison how to visualize this slide? Text, screenshots?
 - Pathways. 
 - Establish seaside chats. 
 
-
+show repos
 TODO cite Cabunoc Mayes et al.
 
 ???
 
 Participants attend as teams, and come prepared for engaged participation as a whole cohort and within smaller breakout groups (as teams and mixed across teams). Discussions focus around collaborative mindsets, norms, and software to enable open, reproducible, inclusive research, with a balance of tools like R (including tidyverse, RMarkdown), GitHub (Issues), Google Drive, and Twitter and practices like examples from the OHI and previous Champions, inclusive design, psychological safely, and facilitation techniques. Teams intentionally have a mix of data/coding experience and responsibilities; there are no coding prerequisites to participate. 
+
+These are some of their products, but even more important are their stories.
 
 ---
 
